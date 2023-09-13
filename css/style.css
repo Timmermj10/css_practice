@@ -45,14 +45,14 @@ div {
     background: #FF0000;
     text-align: right;
     margin-left: 50px;
-    border: 0px 0px 2px 5px;
+    border-width: 0px 0px 2px 5px;
 }
 
 .blue {
     background: #0000FF;
     text-align: left;
     margin-right: 50px;
-    border: 2px 5px 0px 0px;
+    border-width: 2px 5px 0px 0px;
 }
 
 .blue h2 {
@@ -67,7 +67,7 @@ div {
     background: #FFFF00;
     text-align: right;
     margin-left: 50px;
-    border: 0px 0px 2px 5px;
+    border-width: 0px 0px 2px 5px;
 }
 
 .yellow p {
@@ -78,7 +78,7 @@ div {
     background: #008500;
     text-align: left;
     margin-right: 50px;
-    border: 2px 5px 0px 0px;
+    border-width: 2px 5px 0px 0px;
 }
 
 footer {
